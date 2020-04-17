@@ -38,9 +38,12 @@
 		"com.qualcomm.qti.simsettings.overlay"
 	],
 	"apps_list": [
-		"AppCenter.apk",
+		"AlphaMe.apk",
+        	"AppCenter.apk",
+		"AppSandbox.apk",
 		"Assistant.apk",
 		"Browser.apk",
+		"Calendar.apk",
 		"Camera.apk",
 		"ConnectivitySettings.apk",
 		"CustomizeCenter.apk",
@@ -50,11 +53,12 @@
 		"FamilyGuard.apk",
 		"FlymeLauncher.apk",
 		"InCallUI.apk",
-		"MediaProvider",
+		"MediaProvider.apk",
 		"Mms.apk",
 		"MzBatteryManager.apk",
 		"MzSecurity.apk",
 		"NetAdmin.apk",
+		"NetContactService.apk",
 		"PackageInstaller.apk",
 		"Pedometer.apk",
 		"PerfUI.apk",
@@ -72,7 +76,7 @@
 		"TelephonyProvider.apk",
 		"TeleService.apk",
 		"VoiceAssistant.apk",
-		"WifiAdmin"
+		"WifiAdmin.apk"
 	],
 	"removed_system_app": [
 		"/system/priv-app/EasyLauncher",
