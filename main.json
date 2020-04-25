@@ -1,6 +1,6 @@
 {
-	"app_version": "0.8.2beta",
-	"versionCode": 38,
+	"app_version": "0.9.1beta",
+	"versionCode": 39,
 	"overlays_list": [
 		"com.android.browser.overlay",
 		"com.android.calendar.overlay",
