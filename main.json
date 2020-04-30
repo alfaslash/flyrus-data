@@ -10,7 +10,7 @@
 		"com.android.mms.overlay",
 		"com.android.packageinstaller.overlay",
 		"com.android.phone.overlay",
-		"com.android.providers.calendar.overlay,
+		"com.android.providers.calendar.overlay",
 		"com.android.providers.contacts.overlay",
 		"com.android.providers.media.overlay",
 		"com.android.providers.settings.overlay",
