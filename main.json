@@ -132,7 +132,7 @@
 		"/system/MzApp/RemoteCooperation",
 		"/system/MzApp/DsGame"
 	],
-	overlay_versions: {
+	"overlay_versions": {
 		"ru": 21,
         	"uk": 21,
         	"tr": 21,
