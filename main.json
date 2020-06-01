@@ -1,6 +1,6 @@
 {
-	"app_version": "1.0.0",
-	"versionCode": 44,
+	"app_version": "1.0.2",
+	"versionCode": 47,
 	"overlays_list": [
 		"com.android.browser.overlay",
 		"com.android.calendar.overlay",
@@ -131,5 +131,14 @@
 		"/system/MzApp/Email",
 		"/system/MzApp/RemoteCooperation",
 		"/system/MzApp/DsGame"
-	]
+	],
+	overlay_versions: {
+		"ru": 21,
+        	"uk": 21,
+        	"tr": 21,
+        	"ar": 21,
+        	"it": 21,
+        	"es": 21,
+        	"fr": 21
+	}
 }
