@@ -1,6 +1,6 @@
 {
 	"app_version": "1.2.2",
-	"versionCode": 53,
+	"versionCode": 55,
 	"overlays_list": [
 		"com.android.browser.overlay",
 		"com.android.calendar.overlay",
