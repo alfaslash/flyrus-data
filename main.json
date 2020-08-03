@@ -1,5 +1,5 @@
 {
-	"app_version": "1.2.2",
+	"app_version": "1.2.7",
 	"versionCode": 55,
 	"overlays_list": [
 		"com.android.browser.overlay",
@@ -134,7 +134,7 @@
 	"overlay_versions": {
 		"ru": "1.7.8",
         	"uk": "1.7.8",
-        	"tr": "1.7.7",
+        	"tr": "1.7.8",
         	"ar": "1.7.7",
         	"it": "1.7.7",
         	"es": "1.7.7",
