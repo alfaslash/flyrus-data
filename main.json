@@ -39,6 +39,7 @@
 		"com.meizu.flyme.sdkstage.overlay",
 		"com.meizu.flyme.service.find.overlay",
 		"com.meizu.media.camera.overlay",
+		"com.meizu.media.video.overlay",
 		"com.meizu.mstore.overlay",
 		"com.meizu.mzsyncservice.overlay",
 		"com.meizu.net.pedometer.overlay",
@@ -105,6 +106,7 @@
 		"Telecom.apk",
 		"TelephonyProvider.apk",
 		"TeleService.apk",
+		"Video.apk",
 		"VoiceAssistant.apk",
 		"WallpaperCropper.apk",
 		"WifiAdmin.apk"
