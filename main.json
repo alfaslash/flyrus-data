@@ -156,6 +156,8 @@
 	"protected_app": [
 		"com.alfaslash.flyrus"
 	],
+	"removable_apps": [
+	],
 	"removed_system_app": [
 		"/system/priv-app/EasyLauncher",
 		"/system/priv-app/Feedback",
